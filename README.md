@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aulia Rachmat Diapari</h1>
-<h3 align="center">A career switcher to Quality Assurance Engineer with strong background in mechanical & telecom engineering</h3>
+<h3 align="center">A career switcher to Quality Assurance Engineer with a strong background in mechanical & telecom engineering</h3>
 
-- 🌱 I’m currently learning **Selenium, Postman, K6 & JMeter, QA-Ops**
+-  🌱 I'm an experienced Quality Assurance Tester (Web & Mobile)
+
+-  🌱 I’m currently learning **Selenium with Python & JavaScript, API Testing, Performance Testing with K6**
 
 - 📫 How to reach me **aulia.diapari@gmail.com**
 
-- ⚡ Fun fact **i think im in loved with QA and DevOps xD**
+- ⚡ Fun fact **i think I'm in love with QA and DevOps xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
