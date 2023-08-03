@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aulia Rachmat Diapari</h1>
 <h3 align="center">A career switcher to Quality Assurance Engineer with a strong background in mechanical & telecom engineering</h3>
 
--  🌱 I'm an experienced Quality Assurance Tester (Web & Mobile)
+- 🌱 I'm an experienced Quality Assurance Tester (Web & Mobile)
 
--  🌱 I’m currently learning **Selenium with Python & JavaScript, API Testing, Performance Testing with K6**
+- 🌱 I’m currently learning **Selenium with Python & JavaScript, API Testing, Performance Testing with K6**
 
 - 📫 How to reach me **aulia.diapari@gmail.com**
 
 - ⚡ Fun fact **i think I'm in love with QA and DevOps xD**
+
+<h3 align="left">Project Portfolio:</h3>
+- ⚡ Rakamin x Jubelio Project-Based Intern https://drive.google.com/drive/folders/1PEBay0UHxLE5pkb_E0UUL3y_VbXxU7M8?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
