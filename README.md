@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **i think I'm in love with QA and DevOps xD**
 
-<h3 align="left">Project Portfolio:</h3>
-- ⚡ https://drive.google.com/drive/folders/1HpZOWeiN02FuDAr6aXhVJnKnvhvSLybU?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
